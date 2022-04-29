@@ -1,0 +1,432 @@
+Process 3 accessed page 99 - frame 0
+Process 2 accessed page 6 - frame 1
+Process 3 accessed page 8 - frame 2
+Process 0 accessed page 25 - frame 3
+Process 3 accessed page 70 - frame 4
+Process 2 accessed page 118 - frame 5
+Process 1 accessed page 37 - frame 6
+Process 1 accessed page 120 - frame 7
+Page 25 in memory (frame 3)!
+Process 0 accessed page 25 - frame 3
+Memory is full! Frame 0 was replaced (page 99 - pid 3)
+Process 2 accessed page 64 - frame 0
+Memory is full! Frame 1 was replaced (page 6 - pid 2)
+Process 2 accessed page 95 - frame 1
+Memory is full! Frame 2 was replaced (page 8 - pid 3)
+Process 0 accessed page 80 - frame 2
+Memory is full! Frame 3 was replaced (page 25 - pid 0)
+Process 3 accessed page 48 - frame 3
+Memory is full! Frame 4 was replaced (page 70 - pid 3)
+Process 3 accessed page 122 - frame 4
+Memory is full! Frame 5 was replaced (page 118 - pid 2)
+Process 3 accessed page 113 - frame 5
+Memory is full! Frame 6 was replaced (page 37 - pid 1)
+Process 1 accessed page 81 - frame 6
+Memory is full! Frame 7 was replaced (page 120 - pid 1)
+Process 1 accessed page 123 - frame 7
+Memory is full! Frame 0 was replaced (page 64 - pid 2)
+Process 0 accessed page 67 - frame 0
+Memory is full! Frame 1 was replaced (page 95 - pid 2)
+Process 3 accessed page 54 - frame 1
+Page 67 in memory (frame 0)!
+Process 0 accessed page 67 - frame 0
+Memory is full! Frame 2 was replaced (page 80 - pid 0)
+Process 1 accessed page 73 - frame 2
+Memory is full! Frame 3 was replaced (page 48 - pid 3)
+Process 0 accessed page 3 - frame 3
+Memory is full! Frame 4 was replaced (page 122 - pid 3)
+Process 0 accessed page 112 - frame 4
+Memory is full! Frame 5 was replaced (page 113 - pid 3)
+Process 0 accessed page 14 - frame 5
+Page 81 in memory (frame 6)!
+Process 1 accessed page 81 - frame 6
+Memory is full! Frame 6 was replaced (page 81 - pid 1)
+Process 1 accessed page 63 - frame 6
+Memory is full! Frame 7 was replaced (page 123 - pid 1)
+Process 2 accessed page 33 - frame 7
+Memory is full! Frame 0 was replaced (page 67 - pid 0)
+Process 2 accessed page 43 - frame 0
+Memory is full! Frame 1 was replaced (page 54 - pid 3)
+Process 1 accessed page 13 - frame 1
+Memory is full! Frame 2 was replaced (page 73 - pid 1)
+Process 1 accessed page 92 - frame 2
+Memory is full! Frame 3 was replaced (page 3 - pid 0)
+Process 1 accessed page 68 - frame 3
+Memory is full! Frame 4 was replaced (page 112 - pid 0)
+Process 2 accessed page 6 - frame 4
+Memory is full! Frame 5 was replaced (page 14 - pid 0)
+Process 3 accessed page 22 - frame 5
+Memory is full! Frame 6 was replaced (page 63 - pid 1)
+Process 2 accessed page 41 - frame 6
+Memory is full! Frame 7 was replaced (page 33 - pid 2)
+Process 1 accessed page 51 - frame 7
+Memory is full! Frame 0 was replaced (page 43 - pid 2)
+Process 3 accessed page 100 - frame 0
+Page 41 in memory (frame 6)!
+Process 2 accessed page 41 - frame 6
+Memory is full! Frame 1 was replaced (page 13 - pid 1)
+Process 3 accessed page 74 - frame 1
+Memory is full! Frame 2 was replaced (page 92 - pid 1)
+Process 1 accessed page 94 - frame 2
+Memory is full! Frame 3 was replaced (page 68 - pid 1)
+Process 2 accessed page 4 - frame 3
+Memory is full! Frame 4 was replaced (page 6 - pid 2)
+Process 1 accessed page 102 - frame 4
+Memory is full! Frame 5 was replaced (page 22 - pid 3)
+Process 0 accessed page 71 - frame 5
+Memory is full! Frame 6 was replaced (page 41 - pid 2)
+Process 2 accessed page 62 - frame 6
+Memory is full! Frame 7 was replaced (page 51 - pid 1)
+Process 2 accessed page 88 - frame 7
+Memory is full! Frame 0 was replaced (page 100 - pid 3)
+Process 1 accessed page 120 - frame 0
+Memory is full! Frame 1 was replaced (page 74 - pid 3)
+Process 1 accessed page 18 - frame 1
+Memory is full! Frame 2 was replaced (page 94 - pid 1)
+Process 1 accessed page 50 - frame 2
+Memory is full! Frame 3 was replaced (page 4 - pid 2)
+Process 1 accessed page 73 - frame 3
+Memory is full! Frame 4 was replaced (page 102 - pid 1)
+Process 1 accessed page 19 - frame 4
+Memory is full! Frame 5 was replaced (page 71 - pid 0)
+Process 0 accessed page 90 - frame 5
+Memory is full! Frame 6 was replaced (page 62 - pid 2)
+Process 3 accessed page 60 - frame 6
+Memory is full! Frame 7 was replaced (page 88 - pid 2)
+Process 2 accessed page 117 - frame 7
+Memory is full! Frame 0 was replaced (page 120 - pid 1)
+Process 2 accessed page 72 - frame 0
+Memory is full! Frame 1 was replaced (page 18 - pid 1)
+Process 2 accessed page 47 - frame 1
+Memory is full! Frame 2 was replaced (page 50 - pid 1)
+Process 0 accessed page 49 - frame 2
+Memory is full! Frame 3 was replaced (page 73 - pid 1)
+Process 0 accessed page 26 - frame 3
+Memory is full! Frame 4 was replaced (page 19 - pid 1)
+Process 3 accessed page 70 - frame 4
+Memory is full! Frame 5 was replaced (page 90 - pid 0)
+Process 0 accessed page 20 - frame 5
+Memory is full! Frame 6 was replaced (page 60 - pid 3)
+Process 2 accessed page 69 - frame 6
+Memory is full! Frame 7 was replaced (page 117 - pid 2)
+Process 3 accessed page 8 - frame 7
+Memory is full! Frame 0 was replaced (page 72 - pid 2)
+Process 0 accessed page 87 - frame 0
+Memory is full! Frame 1 was replaced (page 47 - pid 2)
+Process 3 accessed page 32 - frame 1
+Memory is full! Frame 2 was replaced (page 49 - pid 0)
+Process 3 accessed page 9 - frame 2
+Memory is full! Frame 3 was replaced (page 26 - pid 0)
+Process 3 accessed page 106 - frame 3
+Memory is full! Frame 4 was replaced (page 70 - pid 3)
+Process 1 accessed page 1 - frame 4
+Memory is full! Frame 5 was replaced (page 20 - pid 0)
+Process 1 accessed page 37 - frame 5
+Memory is full! Frame 6 was replaced (page 69 - pid 2)
+Process 0 accessed page 82 - frame 6
+Memory is full! Frame 7 was replaced (page 8 - pid 3)
+Process 2 accessed page 110 - frame 7
+Memory is full! Frame 0 was replaced (page 87 - pid 0)
+Process 2 accessed page 77 - frame 0
+Memory is full! Frame 1 was replaced (page 32 - pid 3)
+Process 1 accessed page 94 - frame 1
+Memory is full! Frame 2 was replaced (page 9 - pid 3)
+Process 2 accessed page 95 - frame 2
+Page 82 in memory (frame 6)!
+Process 0 accessed page 82 - frame 6
+Memory is full! Frame 3 was replaced (page 106 - pid 3)
+Process 2 accessed page 36 - frame 3
+Memory is full! Frame 4 was replaced (page 1 - pid 1)
+Process 2 accessed page 91 - frame 4
+Memory is full! Frame 5 was replaced (page 37 - pid 1)
+Process 1 accessed page 81 - frame 5
+Memory is full! Frame 6 was replaced (page 82 - pid 0)
+Process 0 accessed page 5 - frame 6
+Memory is full! Frame 7 was replaced (page 110 - pid 2)
+Process 1 accessed page 66 - frame 7
+Memory is full! Frame 0 was replaced (page 77 - pid 2)
+Process 3 accessed page 57 - frame 0
+Memory is full! Frame 1 was replaced (page 94 - pid 1)
+Process 1 accessed page 50 - frame 1
+Memory is full! Frame 2 was replaced (page 95 - pid 2)
+Process 0 accessed page 121 - frame 2
+Memory is full! Frame 3 was replaced (page 36 - pid 2)
+Process 2 accessed page 31 - frame 3
+Memory is full! Frame 4 was replaced (page 91 - pid 2)
+Process 2 accessed page 21 - frame 4
+Memory is full! Frame 5 was replaced (page 81 - pid 1)
+Process 2 accessed page 95 - frame 5
+Page 95 in memory (frame 5)!
+Process 2 accessed page 95 - frame 5
+Memory is full! Frame 6 was replaced (page 5 - pid 0)
+Process 1 accessed page 40 - frame 6
+Memory is full! Frame 7 was replaced (page 66 - pid 1)
+Process 1 accessed page 81 - frame 7
+Memory is full! Frame 0 was replaced (page 57 - pid 3)
+Process 0 accessed page 101 - frame 0
+Page 95 in memory (frame 5)!
+Process 2 accessed page 95 - frame 5
+Memory is full! Frame 1 was replaced (page 50 - pid 1)
+Process 3 accessed page 93 - frame 1
+Memory is full! Frame 2 was replaced (page 121 - pid 0)
+Process 1 accessed page 11 - frame 2
+Memory is full! Frame 3 was replaced (page 31 - pid 2)
+Process 2 accessed page 103 - frame 3
+Memory is full! Frame 4 was replaced (page 21 - pid 2)
+Process 2 accessed page 96 - frame 4
+Memory is full! Frame 5 was replaced (page 95 - pid 2)
+Process 2 accessed page 72 - frame 5
+Memory is full! Frame 6 was replaced (page 40 - pid 1)
+Process 3 accessed page 78 - frame 6
+Memory is full! Frame 7 was replaced (page 81 - pid 1)
+Process 0 accessed page 5 - frame 7
+Memory is full! Frame 0 was replaced (page 101 - pid 0)
+Process 0 accessed page 46 - frame 0
+Memory is full! Frame 1 was replaced (page 93 - pid 3)
+Process 3 accessed page 60 - frame 1
+Memory is full! Frame 2 was replaced (page 11 - pid 1)
+Process 1 accessed page 37 - frame 2
+Memory is full! Frame 3 was replaced (page 103 - pid 2)
+Process 2 accessed page 39 - frame 3
+Memory is full! Frame 4 was replaced (page 96 - pid 2)
+Process 2 accessed page 103 - frame 4
+Memory is full! Frame 5 was replaced (page 72 - pid 2)
+Process 0 accessed page 24 - frame 5
+Memory is full! Frame 6 was replaced (page 78 - pid 3)
+Process 0 accessed page 89 - frame 6
+Memory is full! Frame 7 was replaced (page 5 - pid 0)
+Process 1 accessed page 7 - frame 7
+Memory is full! Frame 0 was replaced (page 46 - pid 0)
+Process 1 accessed page 75 - frame 0
+Memory is full! Frame 1 was replaced (page 60 - pid 3)
+Process 3 accessed page 10 - frame 1
+Memory is full! Frame 2 was replaced (page 37 - pid 1)
+Process 2 accessed page 69 - frame 2
+Memory is full! Frame 3 was replaced (page 39 - pid 2)
+Process 1 accessed page 107 - frame 3
+Memory is full! Frame 4 was replaced (page 103 - pid 2)
+Process 0 accessed page 124 - frame 4
+Memory is full! Frame 5 was replaced (page 24 - pid 0)
+Process 2 accessed page 53 - frame 5
+Page 7 in memory (frame 7)!
+Process 1 accessed page 7 - frame 7
+Memory is full! Frame 6 was replaced (page 89 - pid 0)
+Process 2 accessed page 33 - frame 6
+Memory is full! Frame 7 was replaced (page 7 - pid 1)
+Process 3 accessed page 28 - frame 7
+Memory is full! Frame 0 was replaced (page 75 - pid 1)
+Process 1 accessed page 73 - frame 0
+Memory is full! Frame 1 was replaced (page 10 - pid 3)
+Process 2 accessed page 36 - frame 1
+Memory is full! Frame 2 was replaced (page 69 - pid 2)
+Process 0 accessed page 104 - frame 2
+Memory is full! Frame 3 was replaced (page 107 - pid 1)
+Process 2 accessed page 96 - frame 3
+Memory is full! Frame 4 was replaced (page 124 - pid 0)
+Process 3 accessed page 22 - frame 4
+Memory is full! Frame 5 was replaced (page 53 - pid 2)
+Process 3 accessed page 27 - frame 5
+Memory is full! Frame 6 was replaced (page 33 - pid 2)
+Process 1 accessed page 94 - frame 6
+Memory is full! Frame 7 was replaced (page 28 - pid 3)
+Process 2 accessed page 2 - frame 7
+Memory is full! Frame 0 was replaced (page 73 - pid 1)
+Process 1 accessed page 37 - frame 0
+Memory is full! Frame 1 was replaced (page 36 - pid 2)
+Process 1 accessed page 75 - frame 1
+Memory is full! Frame 2 was replaced (page 104 - pid 0)
+Process 1 accessed page 55 - frame 2
+Memory is full! Frame 3 was replaced (page 96 - pid 2)
+Process 2 accessed page 36 - frame 3
+Memory is full! Frame 4 was replaced (page 22 - pid 3)
+Process 2 accessed page 31 - frame 4
+Memory is full! Frame 5 was replaced (page 27 - pid 3)
+Process 2 accessed page 61 - frame 5
+Memory is full! Frame 6 was replaced (page 94 - pid 1)
+Process 1 accessed page 13 - frame 6
+Memory is full! Frame 7 was replaced (page 2 - pid 2)
+Process 1 accessed page 102 - frame 7
+Memory is full! Frame 0 was replaced (page 37 - pid 1)
+Process 3 accessed page 32 - frame 0
+Memory is full! Frame 1 was replaced (page 75 - pid 1)
+Process 2 accessed page 2 - frame 1
+Memory is full! Frame 2 was replaced (page 55 - pid 1)
+Process 3 accessed page 22 - frame 2
+Memory is full! Frame 3 was replaced (page 36 - pid 2)
+Process 3 accessed page 59 - frame 3
+Memory is full! Frame 4 was replaced (page 31 - pid 2)
+Process 2 accessed page 83 - frame 4
+Memory is full! Frame 5 was replaced (page 61 - pid 2)
+Process 2 accessed page 105 - frame 5
+Memory is full! Frame 6 was replaced (page 13 - pid 1)
+Process 1 accessed page 35 - frame 6
+Memory is full! Frame 7 was replaced (page 102 - pid 1)
+Process 3 accessed page 76 - frame 7
+Memory is full! Frame 0 was replaced (page 32 - pid 3)
+Process 3 accessed page 115 - frame 0
+Memory is full! Frame 1 was replaced (page 2 - pid 2)
+Process 0 accessed page 0 - frame 1
+Memory is full! Frame 2 was replaced (page 22 - pid 3)
+Process 2 accessed page 117 - frame 2
+Memory is full! Frame 3 was replaced (page 59 - pid 3)
+Process 0 accessed page 49 - frame 3
+Memory is full! Frame 4 was replaced (page 83 - pid 2)
+Process 1 accessed page 68 - frame 4
+Memory is full! Frame 5 was replaced (page 105 - pid 2)
+Process 1 accessed page 111 - frame 5
+Memory is full! Frame 6 was replaced (page 35 - pid 1)
+Process 3 accessed page 86 - frame 6
+Memory is full! Frame 7 was replaced (page 76 - pid 3)
+Process 1 accessed page 66 - frame 7
+Memory is full! Frame 0 was replaced (page 115 - pid 3)
+Process 3 accessed page 28 - frame 0
+Memory is full! Frame 1 was replaced (page 0 - pid 0)
+Process 2 accessed page 33 - frame 1
+Memory is full! Frame 2 was replaced (page 117 - pid 2)
+Process 3 accessed page 127 - frame 2
+Memory is full! Frame 3 was replaced (page 49 - pid 0)
+Process 0 accessed page 114 - frame 3
+Memory is full! Frame 4 was replaced (page 68 - pid 1)
+Process 1 accessed page 84 - frame 4
+Memory is full! Frame 5 was replaced (page 111 - pid 1)
+Process 1 accessed page 68 - frame 5
+Memory is full! Frame 6 was replaced (page 86 - pid 3)
+Process 0 accessed page 116 - frame 6
+Memory is full! Frame 7 was replaced (page 66 - pid 1)
+Process 3 accessed page 79 - frame 7
+Memory is full! Frame 0 was replaced (page 28 - pid 3)
+Process 1 accessed page 94 - frame 0
+Memory is full! Frame 1 was replaced (page 33 - pid 2)
+Process 2 accessed page 17 - frame 1
+Memory is full! Frame 2 was replaced (page 127 - pid 3)
+Process 0 accessed page 89 - frame 2
+Page 84 in memory (frame 4)!
+Process 1 accessed page 84 - frame 4
+Memory is full! Frame 3 was replaced (page 114 - pid 0)
+Process 3 accessed page 22 - frame 3
+Page 68 in memory (frame 5)!
+Process 1 accessed page 68 - frame 5
+Memory is full! Frame 4 was replaced (page 84 - pid 1)
+Process 0 accessed page 0 - frame 4
+Page 116 in memory (frame 6)!
+Process 0 accessed page 116 - frame 6
+Memory is full! Frame 5 was replaced (page 68 - pid 1)
+Process 2 accessed page 105 - frame 5
+Memory is full! Frame 6 was replaced (page 116 - pid 0)
+Process 3 accessed page 113 - frame 6
+Memory is full! Frame 7 was replaced (page 79 - pid 3)
+Process 3 accessed page 115 - frame 7
+Memory is full! Frame 0 was replaced (page 94 - pid 1)
+Process 0 accessed page 5 - frame 0
+Memory is full! Frame 1 was replaced (page 17 - pid 2)
+Process 3 accessed page 8 - frame 1
+Memory is full! Frame 2 was replaced (page 89 - pid 0)
+Process 1 accessed page 51 - frame 2
+Memory is full! Frame 3 was replaced (page 22 - pid 3)
+Process 2 accessed page 61 - frame 3
+Page 51 in memory (frame 2)!
+Process 1 accessed page 51 - frame 2
+Memory is full! Frame 4 was replaced (page 0 - pid 0)
+Process 2 accessed page 72 - frame 4
+Memory is full! Frame 5 was replaced (page 105 - pid 2)
+Process 2 accessed page 77 - frame 5
+Memory is full! Frame 6 was replaced (page 113 - pid 3)
+Process 3 accessed page 59 - frame 6
+Memory is full! Frame 7 was replaced (page 115 - pid 3)
+Process 1 accessed page 35 - frame 7
+Memory is full! Frame 0 was replaced (page 5 - pid 0)
+Process 0 accessed page 16 - frame 0
+Memory is full! Frame 1 was replaced (page 8 - pid 3)
+Process 3 accessed page 70 - frame 1
+Memory is full! Frame 2 was replaced (page 51 - pid 1)
+Process 2 accessed page 62 - frame 2
+Memory is full! Frame 3 was replaced (page 61 - pid 2)
+Process 1 accessed page 66 - frame 3
+Memory is full! Frame 4 was replaced (page 72 - pid 2)
+Process 2 accessed page 23 - frame 4
+Memory is full! Frame 5 was replaced (page 77 - pid 2)
+Process 1 accessed page 125 - frame 5
+Memory is full! Frame 6 was replaced (page 59 - pid 3)
+Process 3 accessed page 106 - frame 6
+Memory is full! Frame 7 was replaced (page 35 - pid 1)
+Process 0 accessed page 87 - frame 7
+Memory is full! Frame 0 was replaced (page 16 - pid 0)
+Process 0 accessed page 121 - frame 0
+Memory is full! Frame 1 was replaced (page 70 - pid 3)
+Process 1 accessed page 81 - frame 1
+Page 106 in memory (frame 6)!
+Process 3 accessed page 106 - frame 6
+Memory is full! Frame 2 was replaced (page 62 - pid 2)
+Process 3 accessed page 48 - frame 2
+Memory is full! Frame 3 was replaced (page 66 - pid 1)
+Process 3 accessed page 32 - frame 3
+Memory is full! Frame 4 was replaced (page 23 - pid 2)
+Process 0 accessed page 97 - frame 4
+Memory is full! Frame 5 was replaced (page 125 - pid 1)
+Process 2 accessed page 91 - frame 5
+Memory is full! Frame 6 was replaced (page 106 - pid 3)
+Process 0 accessed page 71 - frame 6
+Memory is full! Frame 7 was replaced (page 87 - pid 0)
+Process 3 accessed page 28 - frame 7
+Memory is full! Frame 0 was replaced (page 121 - pid 0)
+Process 3 accessed page 126 - frame 0
+Memory is full! Frame 1 was replaced (page 81 - pid 1)
+Process 0 accessed page 98 - frame 1
+Memory is full! Frame 2 was replaced (page 48 - pid 3)
+Process 2 accessed page 62 - frame 2
+Page 71 in memory (frame 6)!
+Process 0 accessed page 71 - frame 6
+Memory is full! Frame 3 was replaced (page 32 - pid 3)
+Process 2 accessed page 69 - frame 3
+Memory is full! Frame 4 was replaced (page 97 - pid 0)
+Process 2 accessed page 117 - frame 4
+Memory is full! Frame 5 was replaced (page 91 - pid 2)
+Process 2 accessed page 21 - frame 5
+Page 117 in memory (frame 4)!
+Process 2 accessed page 117 - frame 4
+Memory is full! Frame 6 was replaced (page 71 - pid 0)
+Process 2 accessed page 23 - frame 6
+Memory is full! Frame 7 was replaced (page 28 - pid 3)
+Process 2 accessed page 56 - frame 7
+Memory is full! Frame 0 was replaced (page 126 - pid 3)
+Process 1 accessed page 111 - frame 0
+Memory is full! Frame 1 was replaced (page 98 - pid 0)
+Process 2 accessed page 6 - frame 1
+Memory is full! Frame 2 was replaced (page 62 - pid 2)
+Process 0 accessed page 30 - frame 2
+Memory is full! Frame 3 was replaced (page 69 - pid 2)
+Process 3 accessed page 126 - frame 3
+Memory is full! Frame 4 was replaced (page 117 - pid 2)
+Process 3 accessed page 8 - frame 4
+Memory is full! Frame 5 was replaced (page 21 - pid 2)
+Process 3 accessed page 113 - frame 5
+Memory is full! Frame 6 was replaced (page 23 - pid 2)
+Process 1 accessed page 109 - frame 6
+Page 8 in memory (frame 4)!
+Process 3 accessed page 8 - frame 4
+Memory is full! Frame 7 was replaced (page 56 - pid 2)
+Process 0 accessed page 90 - frame 7
+Memory is full! Frame 0 was replaced (page 111 - pid 1)
+Process 2 accessed page 77 - frame 0
+Memory is full! Frame 1 was replaced (page 6 - pid 2)
+Process 1 accessed page 94 - frame 1
+Memory is full! Frame 2 was replaced (page 30 - pid 0)
+Process 1 accessed page 123 - frame 2
+Memory is full! Frame 3 was replaced (page 126 - pid 3)
+Process 2 accessed page 39 - frame 3
+Memory is full! Frame 4 was replaced (page 8 - pid 3)
+Process 2 accessed page 83 - frame 4
+Memory is full! Frame 5 was replaced (page 113 - pid 3)
+Process 3 accessed page 65 - frame 5
+Memory is full! Frame 6 was replaced (page 109 - pid 1)
+Process 3 accessed page 74 - frame 6
+Memory is full! Frame 7 was replaced (page 90 - pid 0)
+Process 2 accessed page 103 - frame 7
+Memory is full! Frame 0 was replaced (page 77 - pid 2)
+Process 3 accessed page 113 - frame 0
+Memory is full! Frame 1 was replaced (page 94 - pid 1)
+Process 0 accessed page 108 - frame 1
+Memory is full! Frame 2 was replaced (page 123 - pid 1)
+Process 0 accessed page 44 - frame 2
+Memory is full! Frame 3 was replaced (page 39 - pid 2)
+Process 3 accessed page 8 - frame 3
